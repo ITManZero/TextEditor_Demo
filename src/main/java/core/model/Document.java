@@ -2,13 +2,14 @@ package core.model;
 
 import java.util.List;
 
-class DD { }
-
-class BB { }
-
 public class Document {
-    class AA { }
-    private List<TextRowObject> rows;
+    //import
+    //import
+    //import
+    int x;
+    int y;
+    int z;
+    //private List<TextRowObject> rows;
 }
 
 
